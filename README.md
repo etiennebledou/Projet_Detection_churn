@@ -1,4 +1,3 @@
-# Projet_Detection_churn
 #  Prédiction du Churn Client — Secteur Télécommunications
 
 > Projet de Machine Learning supervisé pour prédire la résiliation d'abonnement client à partir du dataset IBM Telco Customer Churn.
